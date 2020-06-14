@@ -12,8 +12,8 @@ Created a new react project that has two components, one is the CommentDetail co
 
 ## CommentDetail Component
 
-<img src="./public/PhotoOne.png" width="300">
+<img src="./PhotoOne.png" width="300">
 
 ## ApprovalCard Component
 
-<img src="./public/PhotoTwo.png" width="300">
+<img src="./PhotoTwo.png" width="300">
